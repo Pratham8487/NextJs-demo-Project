@@ -1,7 +1,7 @@
 export default function Home() {
   return (
-    <>
-      <h1 className="text-5xl text-center justify-center text-yellow-600 mt-10">Welcome to My First Next.Js App</h1>
-    </>
+    <main className="min-h-screen bg-black/[0.96] antialiased bg-grid-white/[0.02]">
+      <h1>Welcome to My First App</h1>
+    </main>
   );
 }
