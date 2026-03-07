@@ -1,0 +1,304 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Guitar Fundamentals",
+      "slug": "guitar-fundamentals",
+      "description": "Learn the basics of playing guitar including chords, strumming patterns, and simple songs.",
+      "price": 99.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "/courses/guitar.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Piano for Beginners",
+      "slug": "piano-for-beginners",
+      "description": "Start your musical journey with foundational piano skills and easy melodies.",
+      "price": 89.99,
+      "instructor": "Sarah Johnson",
+      "isFeatured": true,
+      "image": "/courses/piano.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Advanced Guitar Techniques",
+      "slug": "advanced-guitar-techniques",
+      "description": "Master advanced guitar techniques including fingerstyle, tapping, and improvisation.",
+      "price": 119.99,
+      "instructor": "Mike Anderson",
+      "isFeatured": false,
+      "image": "/courses/guitar-advanced.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Music Theory Essentials",
+      "slug": "music-theory-essentials",
+      "description": "Understand scales, chords, and harmony to strengthen your musical foundation.",
+      "price": 79.99,
+      "instructor": "Emily Clark",
+      "isFeatured": true,
+      "image": "/courses/music-theory.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Drumming Basics",
+      "slug": "drumming-basics",
+      "description": "Learn rhythm fundamentals, drum kit setup, and basic grooves.",
+      "price": 69.99,
+      "instructor": "David Brown",
+      "isFeatured": false,
+      "image": "/courses/drums.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Electronic Music Production",
+      "slug": "electronic-music-production",
+      "description": "Create electronic beats and tracks using modern digital tools.",
+      "price": 129.99,
+      "instructor": "Alex Carter",
+      "isFeatured": true,
+      "image": "/courses/edm.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Violin for Beginners",
+      "slug": "violin-for-beginners",
+      "description": "Learn violin posture, bow techniques, and beginner songs.",
+      "price": 94.99,
+      "instructor": "Sophia Lee",
+      "isFeatured": false,
+      "image": "/courses/violin.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Jazz Piano Improvisation",
+      "slug": "jazz-piano-improvisation",
+      "description": "Explore jazz harmony and improvisation techniques on piano.",
+      "price": 109.99,
+      "instructor": "Michael Davis",
+      "isFeatured": true,
+      "image": "/courses/jazz-piano.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Acoustic Guitar Mastery",
+      "slug": "acoustic-guitar-mastery",
+      "description": "Improve your acoustic guitar skills with advanced strumming and fingerpicking.",
+      "price": 104.99,
+      "instructor": "Daniel Scott",
+      "isFeatured": false,
+      "image": "/courses/acoustic-guitar.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Music Composition Basics",
+      "slug": "music-composition-basics",
+      "description": "Learn how to compose your own melodies and songs.",
+      "price": 99.99,
+      "instructor": "Olivia Taylor",
+      "isFeatured": true,
+      "image": "/courses/composition.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Bass Guitar Essentials",
+      "slug": "bass-guitar-essentials",
+      "description": "Understand bass rhythms, grooves, and techniques for beginners.",
+      "price": 79.99,
+      "instructor": "Chris Martin",
+      "isFeatured": false,
+      "image": "/courses/bass.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Singing for Beginners",
+      "slug": "singing-for-beginners",
+      "description": "Develop your vocal range and singing confidence.",
+      "price": 74.99,
+      "instructor": "Emma Wilson",
+      "isFeatured": true,
+      "image": "/courses/singing.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Songwriting Masterclass",
+      "slug": "songwriting-masterclass",
+      "description": "Learn the art of writing meaningful lyrics and melodies.",
+      "price": 119.99,
+      "instructor": "Ryan Walker",
+      "isFeatured": false,
+      "image": "/courses/songwriting.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Hip Hop Beat Making",
+      "slug": "hip-hop-beat-making",
+      "description": "Create powerful hip hop beats using modern production tools.",
+      "price": 109.99,
+      "instructor": "Jason King",
+      "isFeatured": true,
+      "image": "/courses/hiphop.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Music Mixing & Mastering",
+      "slug": "music-mixing-mastering",
+      "description": "Learn professional mixing and mastering techniques.",
+      "price": 129.99,
+      "instructor": "Lucas White",
+      "isFeatured": true,
+      "image": "/courses/mixing.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Flute for Beginners",
+      "slug": "flute-for-beginners",
+      "description": "Learn breathing techniques and flute basics.",
+      "price": 69.99,
+      "instructor": "Anna Green",
+      "isFeatured": false,
+      "image": "/courses/flute.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Classical Piano Techniques",
+      "slug": "classical-piano-techniques",
+      "description": "Master classical piano pieces and advanced techniques.",
+      "price": 119.99,
+      "instructor": "Victor Harris",
+      "isFeatured": false,
+      "image": "/courses/classical-piano.jpg"
+    },
+    {
+      "id": 18,
+      "title": "Ukulele for Beginners",
+      "slug": "ukulele-for-beginners",
+      "description": "Play cheerful songs on the ukulele with simple chords.",
+      "price": 59.99,
+      "instructor": "Laura Young",
+      "isFeatured": false,
+      "image": "/courses/ukulele.jpg"
+    },
+    {
+      "id": 19,
+      "title": "Music Production with Ableton",
+      "slug": "music-production-ableton",
+      "description": "Produce professional music tracks using Ableton Live.",
+      "price": 139.99,
+      "instructor": "Ethan Adams",
+      "isFeatured": true,
+      "image": "/courses/ableton.jpg"
+    },
+    {
+      "id": 20,
+      "title": "Rock Guitar Riffs",
+      "slug": "rock-guitar-riffs",
+      "description": "Learn iconic rock riffs and solos.",
+      "price": 99.99,
+      "instructor": "Kevin Scott",
+      "isFeatured": false,
+      "image": "/courses/rock-guitar.jpg"
+    },
+    {
+      "id": 21,
+      "title": "Percussion Essentials",
+      "slug": "percussion-essentials",
+      "description": "Explore different percussion instruments and rhythms.",
+      "price": 79.99,
+      "instructor": "Marco Diaz",
+      "isFeatured": false,
+      "image": "/courses/percussion.jpg"
+    },
+    {
+      "id": 22,
+      "title": "Blues Guitar Basics",
+      "slug": "blues-guitar-basics",
+      "description": "Learn blues scales, riffs, and expressive guitar playing.",
+      "price": 94.99,
+      "instructor": "Robert Hill",
+      "isFeatured": false,
+      "image": "/courses/blues-guitar.jpg"
+    },
+    {
+      "id": 23,
+      "title": "Digital Music Arrangement",
+      "slug": "digital-music-arrangement",
+      "description": "Arrange music tracks professionally using DAWs.",
+      "price": 109.99,
+      "instructor": "Nathan Reed",
+      "isFeatured": true,
+      "image": "/courses/arrangement.jpg"
+    },
+    {
+      "id": 24,
+      "title": "Choir Singing Techniques",
+      "slug": "choir-singing-techniques",
+      "description": "Develop harmony and group singing skills.",
+      "price": 69.99,
+      "instructor": "Grace Hall",
+      "isFeatured": false,
+      "image": "/courses/choir.jpg"
+    },
+    {
+      "id": 25,
+      "title": "Film Scoring Basics",
+      "slug": "film-scoring-basics",
+      "description": "Compose cinematic music for films and media.",
+      "price": 129.99,
+      "instructor": "Samuel Wright",
+      "isFeatured": true,
+      "image": "/courses/film-scoring.jpg"
+    },
+    {
+      "id": 26,
+      "title": "Trap Music Production",
+      "slug": "trap-music-production",
+      "description": "Create trap beats with modern production techniques.",
+      "price": 114.99,
+      "instructor": "Tyler Moore",
+      "isFeatured": false,
+      "image": "/courses/trap.jpg"
+    },
+    {
+      "id": 27,
+      "title": "Sound Design Fundamentals",
+      "slug": "sound-design-fundamentals",
+      "description": "Design unique sounds for music and games.",
+      "price": 119.99,
+      "instructor": "Oliver King",
+      "isFeatured": true,
+      "image": "/courses/sound-design.jpg"
+    },
+    {
+      "id": 28,
+      "title": "Latin Rhythm Workshop",
+      "slug": "latin-rhythm-workshop",
+      "description": "Explore Latin rhythms and percussion techniques.",
+      "price": 84.99,
+      "instructor": "Carlos Rivera",
+      "isFeatured": false,
+      "image": "/courses/latin.jpg"
+    },
+    {
+      "id": 29,
+      "title": "Music Business Basics",
+      "slug": "music-business-basics",
+      "description": "Understand the music industry and how to promote your music.",
+      "price": 89.99,
+      "instructor": "Sophia Turner",
+      "isFeatured": false,
+      "image": "/courses/music-business.jpg"
+    },
+    {
+      "id": 30,
+      "title": "Live Performance Skills",
+      "slug": "live-performance-skills",
+      "description": "Build stage confidence and perform live like a professional.",
+      "price": 99.99,
+      "instructor": "Liam Parker",
+      "isFeatured": true,
+      "image": "/courses/live-performance.jpg"
+    }
+  ]
+}
