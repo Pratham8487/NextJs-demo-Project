@@ -23,11 +23,11 @@ export default function FeaturedSection() {
   return (
     <div className="py-12 bg-gray-900">
       <div>
-        <div className="text-center">
+        <div className="text-center p-4">
           <h2 className="text-base font-semibold text-teal-600 tracking-wide uppercase">
             Featured Courses
           </h2>
-          <p className="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-white sm:text:4xl">
+          <p className="mt-2 text-3xl leading-8 font-bold sm:text-4xl tracking-tight text-white sm:text:4xl">
             Learn with the Best
           </p>
         </div>
